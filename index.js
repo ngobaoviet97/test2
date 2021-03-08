@@ -328,4 +328,4 @@ client.on("message", message => {
     
 })
 
-client.login("ODE1NDg1ODc0OTMzODU4MzA2.YDtGZw.gdcGXIDjO6RN7EMr8TJ31ObE044")
+client.login("")
